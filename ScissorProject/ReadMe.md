@@ -12,3 +12,5 @@ scissor_anim_avatar_cut_1.fbx is the avatar model with the animation holding the
 scissor_anim_scissor_cut_1.fbx is the scissor model with the animation of cutting.
 
 Animation total length is 20 frames.
+
+Sound file credit goes to: "Scissors, A.wav" by InspectorJ (www.jshaw.co.uk) of Freesound.org
